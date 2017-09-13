@@ -1,0 +1,14 @@
+.newsItem {
+    color: #828282;
+    margin-top: 5px;
+    align-items: baseline;
+    display: flex;
+}
+
+.newsItem-title {
+    color: black;
+    font-size: 4rem;
+    text-decoration: none;
+}
+
+
